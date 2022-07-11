@@ -17,7 +17,7 @@
 body {
 	background-color: var(--pinkish);
 	font-family: "Poppins", sans-serif;
-	background-image: url("./bg-intro-mobile\ \(2\).png");
+	background-image: url("bg-intro-mobile.png");
 }
 
 main {
